@@ -1,0 +1,41 @@
+.copy_right_footer
+{
+  position: fixed;
+  color:blue;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+  font-weight: 900;
+  background-color: green;
+}
+
+body 
+{
+background-image:linear-gradient(goldenrod , crimson, aqua);
+}
+
+#title_heading
+{
+color: darkblue;
+}
+
+img
+{
+width: 100px;
+border-color: aqua;
+}
+
+span 
+{
+text-align: center;
+}
+.text_image_and_result
+{
+  background-color: darkkhaki;
+  width: 1300;
+}
+.mini_result
+{
+  color: aqua;
+}
